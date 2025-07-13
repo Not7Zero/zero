@@ -1,0 +1,2 @@
+# zero
+for tachiyomi
